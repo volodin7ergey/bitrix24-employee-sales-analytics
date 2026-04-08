@@ -20,12 +20,12 @@
 <tr>
 
 <td align="center">
-<img src="media/screen-2.png" width="100%"><br>
+<img src="media/screen-1.jpg" width="100%"><br>
 <em>Начальный экран</em>
 </td>
 
 <td align="center">
-<img src="media/screen-3.png" width="100%"><br>
+<img src="media/screen-2.jpg" width="100%"><br>
 <em>Вывод данных</em>
 </td>
 </tr>
@@ -34,12 +34,12 @@
 
 
 <td align="center">
-<img src="media/screen-4.png" width="100%"><br>
+<img src="media/screen-3.jpg" width="100%"><br>
 <em>Фильтр по периоду</em>
 </td>
 
 <td align="center" >
-<img src="media/screen-5.png" width="100%"><br>
+<img src="media/screen-4.jpg" width="100%"><br>
 <em>Фильтрация по будущему периоду</em>
 </td>
 </tr>
@@ -48,7 +48,7 @@
 
 
 <td align="center">
-<img src="media/screen-6.png" width="100%"><br>
+<img src="media/screen-5.jpg" width="100%"><br>
 <em>Фильтрация по некорректно заданному периоду</em>
 </td>
 </tr>
